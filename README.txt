@@ -1,8 +1,8 @@
-Fedora chroot creation scripts for Debian
+CentOS chroot creation scripts for Debian
 -----------------------------------------
 
 This is a collection of scripts to automate creation of a chroot that contains
-a base Fedora system.
+a base CentOS system.
 
 Define the details of the installation by setting the environment variables in
 the fedora-chroot-common.sh file:
