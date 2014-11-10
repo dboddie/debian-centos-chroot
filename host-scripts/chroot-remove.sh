@@ -2,7 +2,7 @@
 
 set -e
 
-. $PWD/fedora-chroot-common.sh
+. $PWD/centos-chroot-common.sh
 
 echo "---------------------------------------------------------"
 echo "Uninstalling $CHROOT"

@@ -1,5 +1,5 @@
 #!/bin/sh
 
-. $PWD/fedora-chroot-common.sh
+. $PWD/centos-chroot-common.sh
 
 chroot $CHROOT

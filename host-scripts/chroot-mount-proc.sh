@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. $PWD/fedora-chroot-common.sh
+. $PWD/centos-chroot-common.sh
 
 #mount -o bind /proc $CHROOT/proc
 mount -t proc none $CHROOT/proc
